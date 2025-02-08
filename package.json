@@ -1,0 +1,20 @@
+{
+  "name": "social-media2.0",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kiro1221/Social-media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiro1221/Social-media/issues"
+  },
+  "homepage": "https://github.com/kiro1221/Social-media#readme",
+  "description": ""
+}
